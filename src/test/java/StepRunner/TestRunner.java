@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		glue = {"StepDefinition"},
 		dryRun = false,
 		monochrome = true,
-		tags = "@regression",
+		tags = "@Sanity",
 		plugin = {"pretty", "html:J:\\eclipse_Jdrive\\TestBDD\\target\\TestFolder\\Login_Successful.html",
 				"json:J:\\eclipse_Jdrive\\TestBDD\\target\\TestFolder\\Login_Successful.json",
 				"junit:J:\\eclipse_Jdrive\\TestBDD\\target\\TestFolder\\Login_Successful.xml"}
