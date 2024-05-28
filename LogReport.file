@@ -1,0 +1,46 @@
+27-05-2024 16:44:57 INFO  StepDef:38 - Chrome Broswer Launched
+27-05-2024 16:45:00 INFO  StepDef:72 - URL Given
+27-05-2024 16:45:01 INFO  StepDef:81 - Email id & Password given to the browser
+27-05-2024 16:45:05 INFO  StepDef:88 - clicked on login button
+27-05-2024 16:45:12 INFO  StepDef:113 - clicked on logut buttton
+27-05-2024 16:45:12 WARN  StepDef:123 - title verified through log
+27-05-2024 16:45:13 INFO  StepDef:149 - Broswer closed
+28-05-2024 03:35:05 INFO  StepDef:45 - Chrome Broswer Launched
+28-05-2024 03:35:10 INFO  StepDef:88 - URL Given
+28-05-2024 03:35:10 INFO  StepDef:98 - Email id & Password given to the browser
+28-05-2024 03:35:13 INFO  StepDef:106 - clicked on login button
+28-05-2024 03:35:23 INFO  StepDef:136 - clicked on logut buttton
+28-05-2024 03:35:24 WARN  StepDef:147 - title verified through log
+28-05-2024 03:35:24 INFO  StepDef:195 - Broswer closed
+28-05-2024 03:35:26 INFO  StepDef:45 - Chrome Broswer Launched
+28-05-2024 03:35:33 INFO  StepDef:88 - URL Given
+28-05-2024 03:35:33 INFO  StepDef:98 - Email id & Password given to the browser
+28-05-2024 03:35:34 INFO  StepDef:106 - clicked on login button
+28-05-2024 03:35:34 INFO  StepDef:124 - Title verified
+28-05-2024 03:35:37 INFO  StepDef:195 - Broswer closed
+28-05-2024 03:39:47 INFO  StepDef:45 - Chrome Broswer Launched
+28-05-2024 03:39:53 INFO  StepDef:87 - URL Given
+28-05-2024 03:39:53 INFO  StepDef:97 - Email id & Password given to the browser
+28-05-2024 03:40:01 INFO  StepDef:105 - clicked on login button
+28-05-2024 03:40:08 INFO  StepDef:135 - clicked on logut buttton
+28-05-2024 03:40:08 WARN  StepDef:146 - title verified through log
+28-05-2024 03:40:09 INFO  StepDef:194 - Broswer closed
+28-05-2024 03:40:11 INFO  StepDef:45 - Chrome Broswer Launched
+28-05-2024 03:40:17 INFO  StepDef:87 - URL Given
+28-05-2024 03:40:18 INFO  StepDef:97 - Email id & Password given to the browser
+28-05-2024 03:40:18 INFO  StepDef:105 - clicked on login button
+28-05-2024 03:40:19 INFO  StepDef:123 - Title verified
+28-05-2024 03:40:20 INFO  StepDef:194 - Broswer closed
+28-05-2024 03:59:51 INFO  StepDef:45 - Chrome Broswer Launched
+28-05-2024 03:59:57 INFO  StepDef:87 - URL Given
+28-05-2024 03:59:58 INFO  StepDef:97 - Email id & Password given to the browser
+28-05-2024 04:00:00 INFO  StepDef:105 - clicked on login button
+28-05-2024 04:00:09 INFO  StepDef:135 - clicked on logut buttton
+28-05-2024 04:00:09 WARN  StepDef:146 - title verified through log
+28-05-2024 04:00:09 INFO  StepDef:194 - Broswer closed
+28-05-2024 04:00:11 INFO  StepDef:45 - Chrome Broswer Launched
+28-05-2024 04:00:17 INFO  StepDef:87 - URL Given
+28-05-2024 04:00:18 INFO  StepDef:97 - Email id & Password given to the browser
+28-05-2024 04:00:19 INFO  StepDef:105 - clicked on login button
+28-05-2024 04:00:19 INFO  StepDef:123 - Title verified
+28-05-2024 04:00:20 INFO  StepDef:194 - Broswer closed
